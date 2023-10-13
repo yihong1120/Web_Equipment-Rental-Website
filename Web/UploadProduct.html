@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-TW">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>UploadProduct</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/shop-homepage.css" rel="stylesheet">
+
+    <style>
+
+    </style>
+
+</head>
+
+<body>
+    <div class="container">
+        <main>
+            <div class="py-5 text-center">
+                <h2>新增商品表單</h2>
+            </div>
+
+            <div class="row g-3">
+                <div class="col-md-7 col-lg-8 mx-auto">
+                    <h4 class="mb-3">商品資訊</h4>
+                    <form class="needs-validation" novalidate>
+                        <div class="row g-3">
+                            <div class="col-sm-6">
+                                <label for="lastName" class="form-label">商品名</label>
+                                <input type="text" class="form-control" id="lastName" placeholder="" required>
+                                <div class="invalid-feedback">
+                                    Valid 商品名 is required.
+                                </div>
+                            </div>
+
+                            <div class="row-cols-2 py-2">
+                                <label for="Category" class="form-label">Category</label>
+                                <select class="form-select" id="Category" required>
+                                    <option value="">Choose...</option>
+                                    <option value="1">Category1</option>
+                                    <option value="2">Category2</option>
+                                    <option value="3">Category3</option>
+                                </select>
+                                <div class="invalid-feedback">
+                                    Please select a valid Category.
+                                </div>
+                            </div>
+
+                            <div class="col-5 py-2">
+                                <label for="Price" class="form-label">Price</label>
+                                <input type="text" class="form-control" id="Price" placeholder="Price" required>
+                            </div>
+
+                            <div class="col-8 py-2">
+                                <label for="email" class="form-label">Email</label>
+                                <input type="email" class="form-control" id="email" placeholder="you@example.com"
+                                    required>
+                                <div class="invalid-feedback">
+                                    Please enter a valid email address for shipping updates.
+                                </div>
+                            </div>
+
+                            <div class="col-8 py-2">
+                                <label for="Title" class="form-label">Title</label>
+                                <input type="text" class="form-control" id="Title" placeholder="Title" required>
+                            </div>
+
+                            <div class="form-group col-8 py-2">
+                                <label for="Description">Description</label>
+                                <textarea class="form-control" type="text" d="Description" placeholder="Description"
+                                    rows="3"></textarea>
+                            </div>
+
+                            <div class="col-md-5 py-2">
+                                <label for="Country" class="form-label">Country</label>
+                                <select class="form-select" id="Country" required>
+                                    <option value="">Choose...</option>
+                                    <option value="USA">USA</option>
+                                    <option value="Mixco">Mexico</option>
+                                    <option value="Taiwan">Taiwan</option>
+                                </select>
+                                <div class="invalid-feedback">
+                                    Please select a valid Country.
+                                </div>
+                            </div>
+
+                            <div class="col-10 py-2">
+                                <label for="address" class="form-label">Address</label>
+                                <input type="text" class="form-control" id="address" placeholder="1234 Main St"
+                                    required>
+                                <div class="invalid-feedback">
+                                    Please enter your shipping address.
+                                </div>
+                            </div>
+
+                            <div class="col-md-5 py-2">
+                                <label for="payment" class="form-label">付款方式</label>
+                                <select class="form-select" id="payment" required>
+                                    <option value="">Choose...</option>
+                                    <option value="MOCC">MOCC</option>
+                                    <option value="PayPal">PayPal</option>
+                                    <option value="PaymentSeeDescription">PaymentSeeDescription</option>
+                                    <option value="LoanCheck">LoanCheck</option>
+                                    <option value="CashOnPickup">CashOnPickup</option>
+                                </select>
+                                <div class="invalid-feedback">
+                                    Please select a valid payment.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-check col-md-5 py-2">
+                            <input type="checkbox" class="form-check-input">
+                            <label class="form-check-label" for="Ad">加強推廣</label>
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <hr class="my-4">
+            <button class="w-100 btn btn-primary btn-lg" type="submit">新增商品</button>
+        </main>
+
+        <footer class="my-5 pt-5 text-muted text-center text-small">
+            <p class="mb-1">2020 LongMeter</p>
+            <ul class="list-inline">
+                <li class="list-inline-item"><a href="#">隱私權說明</a></li>
+                <li class="list-inline-item"><a href="#">線上服務</a></li>
+            </ul>
+        </footer>
+    </div>
+
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+</body>

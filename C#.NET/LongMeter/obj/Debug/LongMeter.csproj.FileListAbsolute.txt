@@ -1,0 +1,152 @@
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\LongMeter.dll.config
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\LongMeter.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\LongMeter.pdb
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\csc.exe
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\csc.exe.config
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\csc.rsp
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\csi.exe
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\csi.exe.config
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\csi.rsp
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\Microsoft.CodeAnalysis.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\Microsoft.CSharp.Core.targets
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\Microsoft.Managed.Core.targets
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\Microsoft.Win32.Primitives.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\System.AppContext.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\System.Collections.Immutable.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\System.Console.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\System.Diagnostics.StackTrace.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\System.Globalization.Calendars.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\System.IO.Compression.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\System.IO.Compression.ZipFile.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\System.IO.FileSystem.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\System.IO.FileSystem.Primitives.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\System.Net.Http.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\System.Net.Sockets.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\System.Reflection.Metadata.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\System.Security.Cryptography.Encoding.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\System.Security.Cryptography.Primitives.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\System.Text.Encoding.CodePages.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\System.Threading.Tasks.Extensions.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\System.ValueTuple.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\System.Xml.ReaderWriter.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\System.Xml.XmlDocument.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\System.Xml.XPath.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\System.Xml.XPath.XDocument.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\vbc.exe
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\vbc.exe.config
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\vbc.rsp
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\VBCSCompiler.exe
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\roslyn\VBCSCompiler.exe.config
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\Antlr3.Runtime.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\AspNet.ScriptManager.bootstrap.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\AspNet.ScriptManager.jQuery.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\Microsoft.AspNet.FriendlyUrls.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\Microsoft.ScriptManager.MSAjax.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\Microsoft.ScriptManager.WebForms.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\Microsoft.Web.Infrastructure.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\Newtonsoft.Json.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\System.Web.Optimization.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\WebGrease.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\System.Web.Optimization.xml
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\Newtonsoft.Json.xml
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\Antlr3.Runtime.pdb
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\Microsoft.AspNet.FriendlyUrls.xml
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\zh-Hant\System.Web.Optimization.resources.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\bin\zh-Hant\Microsoft.AspNet.FriendlyUrls.resources.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\obj\Debug\LongMeter.csprojAssemblyReference.cache
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\obj\Debug\LongMeter.csproj.CoreCompileInputs.cache
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\obj\Debug\LongMeter.csproj.CopyComplete
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\obj\Debug\LongMeter.dll
+P:\Graduate School\Softengineering\HW6\Three-tier-application\C#.NET\LongMeter\obj\Debug\LongMeter.pdb
+C:\Users\Nobody\Desktop\LongMeter\bin\LongMeter.dll.config
+C:\Users\Nobody\Desktop\LongMeter\bin\LongMeter.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\LongMeter.pdb
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\csc.exe
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\csc.exe.config
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\csc.rsp
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\csi.exe
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\csi.exe.config
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\csi.rsp
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\System.AppContext.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\System.Console.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\System.Net.Http.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\vbc.exe
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\vbc.exe.config
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\vbc.rsp
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nobody\Desktop\LongMeter\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nobody\Desktop\LongMeter\bin\Antlr3.Runtime.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\Newtonsoft.Json.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\System.Web.Optimization.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\WebGrease.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\System.Web.Optimization.xml
+C:\Users\Nobody\Desktop\LongMeter\bin\Newtonsoft.Json.xml
+C:\Users\Nobody\Desktop\LongMeter\bin\Antlr3.Runtime.pdb
+C:\Users\Nobody\Desktop\LongMeter\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Nobody\Desktop\LongMeter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nobody\Desktop\LongMeter\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\Nobody\Desktop\LongMeter\bin\zh-Hant\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Nobody\Desktop\LongMeter\obj\Debug\LongMeter.csprojAssemblyReference.cache
+C:\Users\Nobody\Desktop\LongMeter\obj\Debug\LongMeter.csproj.CoreCompileInputs.cache
+C:\Users\Nobody\Desktop\LongMeter\obj\Debug\LongMeter.csproj.CopyComplete
+C:\Users\Nobody\Desktop\LongMeter\obj\Debug\LongMeter.dll
+C:\Users\Nobody\Desktop\LongMeter\obj\Debug\LongMeter.pdb
