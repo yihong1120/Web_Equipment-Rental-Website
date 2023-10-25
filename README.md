@@ -1,5 +1,4 @@
 # Web_Equipment-Rental-Website
-## Project Description:
 
 This project is a three-tier web application designed to improve the process of matching construction equipment rentals and drivers in the construction industry. Whether you're a construction company, an engineer, a construction equipment supplier, or a skilled driver, our platform provides a convenient way to meet your needs.
 
