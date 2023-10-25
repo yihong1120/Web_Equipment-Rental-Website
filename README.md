@@ -12,10 +12,10 @@ This project is a three-tier web application designed to improve the process of 
 - Incorporating a relational database into our platform ensures efficient data management and seamless connections between equipment and drivers, enhancing the overall user experience.
 Feel free to visit our website and experience a simpler and more efficient way to manage your construction business needs!
 
-![image](https://github.com/jim96388/Web_Equipment-Rental-Website/blob/master/screenshot3.png)
+![image](./images/screenshot3.png)
 
-![image](https://github.com/jim96388/Web_Equipment-Rental-Website/blob/master/screenshot2.png)
+![image](./images/screenshot2.png)
 
-![image](https://github.com/jim96388/Web_Equipment-Rental-Website/blob/master/screenshot1.png)
+![image](./images/screenshot1.png)
 
-![image](https://github.com/jim96388/Web_Equipment-Rental-Website/blob/master/screenshot4.png)
+![image](./images/screenshot4.png)
