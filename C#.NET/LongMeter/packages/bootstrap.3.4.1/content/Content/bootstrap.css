@@ -51,7 +51,6 @@ a:hover {
 }
 abbr[title] {
   border-bottom: none;
-  text-decoration: underline;
   -webkit-text-decoration: underline dotted;
   -moz-text-decoration: underline dotted;
   text-decoration: underline dotted;
@@ -2669,7 +2668,6 @@ output {
   border-radius: 4px;
   -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
   box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
-  -webkit-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
   -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
   -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
   transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
@@ -4350,7 +4348,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-brand {
   float: left;
   height: 50px;
-  padding: 15px 15px;
+  padding: 15px;
   font-size: 18px;
   line-height: 20px;
 }
@@ -6831,4 +6829,3 @@ button.close {
     display: none !important;
   }
 }
-/*# sourceMappingURL=bootstrap.css.map */
